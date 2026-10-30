@@ -1,0 +1,14 @@
+{
+  "name": "projeto-200",
+  "version": "1.0.0",
+  "description": "Repositório dedicado à prática intensiva de lógica de programação com JavaScript, focado no domínio de arrays e objetos por meio de 200 desafios progressivos.",
+  "main": "src/playground.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/playground.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
